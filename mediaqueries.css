@@ -1,7 +1,7 @@
 @media screen and (max-width: 1400px) {
     #profile {
       height: 83vh;
-      margin-bottom: 3rem;
+      margin-bottom: 6rem;
     }
     .about-containers {
       flex-wrap: wrap;
@@ -21,7 +21,7 @@
     }
     #experience,
     .experience-details-container {
-      margin-top: 1.5rem;
+      margin-top: 2rem;
     }
     #profile,
     .section-container {
@@ -35,12 +35,12 @@
       height: fit-content;
     }
     section {
-      margin: 0 3%;
+      margin: 0 5%;
     }
     .section__pic-container {
-      width: 200px;
-      height: 200px;
-      margin: 0 auto 1.5rem;
+      width: 275px;
+      height: 275px;
+      margin: 0 auto 2rem;
     }
     .about-containers {
       margin-top: 0;
@@ -50,18 +50,18 @@
   @media screen and (max-width: 600px) {
     #contact,
     footer {
-      height: 30vh;
+      height: 40vh;
     }
     #profile {
-      height: 80vh;
+      height: 83vh;
       margin-bottom: 0;
     }
     article {
-      font-size: 0.9rem;
+      font-size: 1rem;
     }
     footer nav {
       height: fit-content;
-      margin-bottom: 1rem;
+      margin-bottom: 2rem;
     }
     .about-containers,
     .contact-info-upper-container,
